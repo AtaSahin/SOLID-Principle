@@ -1,0 +1,15 @@
+C:\Users\90545\source\repos\Solid.App\Solid.App\bin\Debug\net7.0\Solid.App.exe
+C:\Users\90545\source\repos\Solid.App\Solid.App\bin\Debug\net7.0\Solid.App.deps.json
+C:\Users\90545\source\repos\Solid.App\Solid.App\bin\Debug\net7.0\Solid.App.runtimeconfig.json
+C:\Users\90545\source\repos\Solid.App\Solid.App\bin\Debug\net7.0\Solid.App.dll
+C:\Users\90545\source\repos\Solid.App\Solid.App\bin\Debug\net7.0\Solid.App.pdb
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\Solid.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\Solid.App.AssemblyInfoInputs.cache
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\Solid.App.AssemblyInfo.cs
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\Solid.App.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\Solid.App.sourcelink.json
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\Solid.App.dll
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\refint\Solid.App.dll
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\Solid.App.pdb
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\Solid.App.genruntimeconfig.cache
+C:\Users\90545\source\repos\Solid.App\Solid.App\obj\Debug\net7.0\ref\Solid.App.dll
